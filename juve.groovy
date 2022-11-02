@@ -10,7 +10,7 @@ pipeline {
                 echo "Building.."
                 sh '''
                 cd git-tutorial-code/jenkins-101
-                touch mama.txt
+                touch maaaaaama.txt
                 '''
            }
         }
